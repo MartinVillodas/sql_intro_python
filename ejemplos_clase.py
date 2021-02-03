@@ -149,7 +149,7 @@ if __name__ == '__main__':
     insert_persona('Python', 29, 'Holanda')
     insert_persona('Max', 35, 'Estados Unidos')
     insert_persona('Mirta', 93, 'Argentina')
-"""
+    
     show()
 
     update_persona_age('Max', 52)
@@ -168,4 +168,3 @@ if __name__ == '__main__':
     # pero con un nuevo id (id=5), y el ex id de Max (id=3)
     # quedó perdido y ya nadie lo use, este comportamiento es normal.
     show()
-    """
